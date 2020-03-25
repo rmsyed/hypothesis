@@ -1,4 +1,4 @@
-class htest {
+class stats {
 
 
 	/*......................... Helper functions......................... */
